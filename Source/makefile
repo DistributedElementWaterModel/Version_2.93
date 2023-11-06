@@ -19,3 +19,4 @@ riverFlow:	sourceRiverFlow.cpp
 
 clean:
 	rm -f $(OBJSD) $(OBJSP) *.o core
+

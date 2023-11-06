@@ -10,3 +10,4 @@ mountain_percent.asc	 Mountain areas without forest cover percent in grid cells
 nve_stations.asc	 NVE station number of watersheds in grid cells 
 tree_level.asc		 Elevation of tree line in grid cells (metres above sea level)
 wetland_percent.asc	 Wetland percent in grid cells
+ 
