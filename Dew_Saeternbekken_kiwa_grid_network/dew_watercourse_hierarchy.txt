@@ -1,0 +1,12 @@
+# Number of watercourse hierarchy elements:  5
+0 : 80001  -9999  1.0  
+1 : 80002  -9999  1.0  
+2 : 80003  -9999  1.0  
+3 : 80004  -9999  1.0  
+4 : 80005  -9999  1.0  
+# Number of watercourse outlets:  1
+4
+# Hierarchy of watercourse elements 
+2  2 :  1  0  
+3  1 :  2  
+4  1 :  3  

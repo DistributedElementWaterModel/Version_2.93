@@ -1,0 +1,135 @@
+
+Meteorological stations: 
+4
+4
+Prec.    
+5608  0  0  205
+5608  2500  0  205
+5608  0  4000  205
+5608  2500  4000  205
+Temp.    
+5608  0  0  205
+5608  2500  0  205
+5608  0  4000  205
+5608  2500  4000  205
+
+Common parameters: 
+3600
+1
+1
+1.04812
+1
+0
+1
+1
+-0.206741
+-0.206741
+30
+0.00010073
+0.00246348
+0
+1
+10000
+0.1
+0
+0.05
+0
+0.2
+0
+0
+0
+0
+319
+
+Date and time information: 
+Start model time      20/08/1996 00:00
+Start simulation time 20/09/1996 00:00
+End simulation time   17/11/1996 23:00
+Initial time steps    744
+Number time steps     1416
+
+Land surface parameters: 
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000242532    5.73799e-06    0.8    0    -0.022916    0.00410776    0.005    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+
+HBV subsurface parameters: 
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+0.3799    2    1    50    1    1.87403    0.0001    0.0130651    0
+
+KiWa subsurface parameters: 
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.8
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+
+Number of landscape elements selected for HBV time series output: 3
+10  -1.5  0.15
+11  -1.5  0.15
+14  -1.5  0.15
+
+
+Number of landscape elements selected for KiWa time series output: 0
+
+
+Number of KiWa elements selected for hillslope output: 0
+
+Number of watercourse/catchment elements selected for time series output: 3
+80001
+80002
+80003
+
+Precipitation and temperature correction for catchments: 
+0  80003  1  0
+
+    Sub-catchment :  80001
+
+    Nash-Sutcliffe efficiency                           -9999.00
+    Root mean square error                              -9999.00
+    Bias (volume error)                                 -9999.00
+    Pearson's product-moment correlation coefficient    -9999.00
+
+
+    Sub-catchment :  80002
+
+    Nash-Sutcliffe efficiency                           -9999.00
+    Root mean square error                              -9999.00
+    Bias (volume error)                                 -9999.00
+    Pearson's product-moment correlation coefficient    -9999.00
+
+
+    Sub-catchment :  80003
+
+    Nash-Sutcliffe efficiency                           0.87
+    Root mean square error                              0.12
+    Bias (volume error)                                 -0.03
+    Pearson's product-moment correlation coefficient    0.88
+
+
+    Watercourse outlet :  80003
+
+    Nash-Sutcliffe efficiency                           0.87
+    Root mean square error                              0.12
+    Bias (volume error)                                 -0.03
+    Pearson's product-moment correlation coefficient    0.88
+
+

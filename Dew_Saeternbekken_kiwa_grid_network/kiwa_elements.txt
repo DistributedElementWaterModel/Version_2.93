@@ -1,0 +1,5 @@
+# Number of landscape elements selected for KiWa time series output: 3
+*no.*  *hillslope length fraction one*  *hillslope length fraction two*
+  0               0.5                               1.0
+ 12               0.5                               1.0
+ 25               0.5                               1.0

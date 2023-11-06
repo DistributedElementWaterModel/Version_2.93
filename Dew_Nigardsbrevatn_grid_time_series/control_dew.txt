@@ -1,0 +1,22 @@
+Type of model run, simulation(S) or calibration(C)                                 : S
+Landscape elements hierarchy, flow direction network(N) or nested catchments(C)    : C
+Input data format, grid files(G) or time series file(T)                            : T
+Output file name                                                                   : dew_out.txt
+Start model date and time (day, month, year, hour, minute)                         : 1 6 1961 12 0	
+Start simulation date and time (day, month, year, hour, minute)                    : 1 1 1962 12 0	
+End simulation date and time (day, month, year, hour, minute)                      : 31 12 2012 12 0
+File with meteorological stations                                                  : met_stations.txt
+File with common parameters                                                        : dew_common_parameters.txt
+File with landsurface parameters                                                   : dew_landsurface_parameters.txt
+File with HBV subsurface parameters                                                : hbv_soil_parameters.txt
+File with KiWa subsurface parameters                                               : kiwa_soil_parameters.txt
+File with landscape elements selected for HBV time series output                   : hbv_elements.txt
+File with landscape elements selected for KiWa time series output                  : kiwa_elements.txt
+File with KiWa elements selected for hillslope output                              : kiwa_hillslope.txt
+File with sub-catchment elements selected for time series output                   : subcatchment_output_elements.txt
+File with landscape element information                                            : dew_landscape.txt
+File with sub-catchment hierarchy                                                  : watershed.txt
+File with information about sub-catchment elements and landscape elements          : dew_waterland.txt
+File with landscape element hierarchy                                              : 
+File with precipitation and temperature correction for catchments                  : catchment_correction.txt
+File with input data                                                               : 76.5.pt.txt

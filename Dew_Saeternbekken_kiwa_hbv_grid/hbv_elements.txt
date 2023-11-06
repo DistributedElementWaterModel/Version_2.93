@@ -1,0 +1,4 @@
+# Number of landscape elements selected for time series output: 2
+*no.*  *groundwater reference level*  *groundwater effective prorosity*
+  1                -1.5                            0.15
+ 13                -1.5                            0.15

@@ -1,0 +1,6 @@
+Output file name                                        : flow_out.txt
+File with geographical analysis area                    : watershed_area.asc
+File with watershed outlets                             : outlet.txt
+File with watercourse hierarchy elements identification : watercourse_id_stream.asc
+File with lake element numbers                          : watercourse_id_lake.asc
+File with flow direction grid for landscape elements    : land_flow.asc

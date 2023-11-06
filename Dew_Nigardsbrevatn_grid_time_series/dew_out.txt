@@ -1,0 +1,108 @@
+
+Meteorological stations: 
+1
+1
+Prec.    
+1  75000  6.856e+06  1510
+Temp.    
+1  75000  6.856e+06  1510
+
+Common parameters: 
+86400
+1
+1
+1.20066
+1
+0
+1
+1
+-0.95
+-0.95
+30
+0.000410177
+0.1
+0
+1
+10000
+0.2
+0
+0.05
+0
+0.2
+0
+0
+0
+0
+243
+
+Date and time information: 
+Start model time      01/06/1961 12:00
+Start simulation time 01/01/1962 12:00
+End simulation time   31/12/2012 12:00
+Initial time steps    214
+Number time steps     18628
+
+Land surface parameters: 
+0.00109315    0.001    0.8    0    0.652504    0.00298912    5    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.000131303    0.000205767    0.8    0    -0.40599    0.0035117    5    0.01    0.08    0.9    0.15
+0.663115  0.73407  0.803808  0.885794  0.993703  1.09506  1.19909  1.3274  1.6339  
+0.00109315    0.001    0.8    0    0.652504    0.00298912    5    0.01    0.08    0.9    0.15
+0.663115  0.73407  0.803808  0.885794  0.993703  1.09506  1.19909  1.3274  1.6339  
+0.00109315    0.001    0.8    0    0.652504    0.00298912    5    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.00109315    0.001    0.8    0    0.652504    0.00298912    5    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.00109315    0.001    0.8    0    0.652504    0.00298912    5    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+0.00109315    0.001    0.8    0    0.652504    0.00298912    5    0.01    0.08    0.9    0
+1  1  1  1  1  1  1  1  1  
+
+HBV subsurface parameters: 
+0.2    1    1    50    0.172321    1.29114    0.001    0.0030663    0
+0.2    1    1    50    0.560245    1.2254    0.00104781    0.00679225    0
+0.2    1    1    50    0.172321    1.29114    0.001    0.0030663    0
+0.2    1    1    50    0.172321    1.29114    0.001    0.0030663    0
+0.2    1    1    50    0.172321    1.29114    0.001    0.0030663    0
+0.2    1    1    50    0.172321    1.29114    0.001    0.0030663    0
+0.2    1    1    50    0.172321    1.29114    0.001    0.0030663    0
+
+KiWa subsurface parameters: 
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.8
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+0.8    45.1698    1.23875    0.7    0.07398    16.6    -8.2063    -15.5127    -1.41526    0.400505    0.06    0.9
+
+Number of landscape elements selected for HBV time series output: 0
+
+
+Number of landscape elements selected for KiWa time series output: 0
+
+
+Number of KiWa elements selected for hillslope output: 0
+
+Number of watercourse/catchment elements selected for time series output: 1
+760005
+
+Precipitation and temperature correction for catchments: 
+0  1220009  1  0
+
+    Sub-catchment :  760005
+
+    Nash-Sutcliffe efficiency                           0.75
+    Root mean square error                              4.28
+    Bias (volume error)                                 0.27
+    Pearson's product-moment correlation coefficient    0.82
+
+
+    Watercourse outlet :  760005
+
+    Nash-Sutcliffe efficiency                           0.75
+    Root mean square error                              4.28
+    Bias (volume error)                                 0.27
+    Pearson's product-moment correlation coefficient    0.82
+
+

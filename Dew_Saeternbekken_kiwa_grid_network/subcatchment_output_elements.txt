@@ -1,0 +1,6 @@
+# Number of sub-catchment elements selected for time series output:  5
+0 : 80001  -9999  1.0  1.0  
+1 : 80002  -9999  1.0  1.0  
+2 : 80003  -9999  1.0  1.0  
+3 : 80004  -9999  1.0  1.0  
+4 : 80005  -9999  1.0  1.0  
