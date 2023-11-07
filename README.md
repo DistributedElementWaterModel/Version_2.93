@@ -1,5 +1,5 @@
-## DistributedElementWaterModel 3.03
-Spatially distributed hydrological model with general land surface characteristics 
+## DistributedElementWaterModel 2.93
+Spatially distributed hydrological model and surface characteristics based on N50 geospatial data from Norwegian Mapping Authority
 
 ## Introduction
 The DistributedElementWater model is a spatially distributed hydrological model used for modelling the water balance and lateral transport of water in the land phase of the hydrological cycle. The model allows different algorithms to be used for hydrological process descriptions. The spatial distribution and shape of discrete landscape elements and the time steps of the model may be selected according to the problem to be solved. The model structure is based on Beldring (2002) and Beldring et al. (2003). The requirements for running the model and the procedures for setting up the model definition files are described in the documentation, as well as the variables and parameters used for hydrological process simulations. Model parameters remain constant over time or vary in a manner which may be described using physical principles or empirical relationships. Parameters either represent physically measurable properties of a watershed, or are used to describe hydrological processes. A variable may represent: (i) the state of the different storages in the hydrological system as approximated by the hydrological model; (ii) the input signal which drives the model; or (iii) the output from the model. Variables vary with time. 
