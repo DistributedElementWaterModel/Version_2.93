@@ -34,5 +34,7 @@ Yuan, Q., Thorarinsdottir, T.L., Beldring, S., Wong, W.K., Xu, C.-Y. 2023. Asses
 
 Huang, S., Eisner, S., Beldring, S. 2024. Developing and evaluating decision support indicators (DSIs) of climate change impacts on flood and drought: a case study in Western Norway. Journal of Water and Climate Change 15(8), 3891-4000. https://doi.org/10.2166/wcc.2024.198 
 
+Huang, S., Wong, W.K., Dobler, A., Bakke, S.J., Beldring, S., Haddeland, I., Hygen, H.O., Løvset, T., Mayer, S., Melvold, K., Nilsen, I.B., Ruan, G., Sørland, S.L., Dyrrdal, A.V. 2026. An improved modelling chain for bias-adjusted high-resolution climate and hydrological projections for Norway. Geoscientific Model Development, 19(10), 4567-4599. https://doi.org/10.5194/gmd-19-4567-2026
+
 ## Liability disclaimer
 This software is provided by the provider "as is" and "with all faults" without warranty of any kind, either express or implied. By downloading this software you agree that the use of the software is done at your own risk and with agreement that you will be solely responsible for any damage to your computer system or loss of data that results from such activities. In no event shall the provider be liable to you or any third parties for any special, punitive, incidental, indirect or consequential damages of any kind, or any damages whatsoever, including, without limitation, those resulting from loss of use, data or profits, and on any theory of liability, arising out of or in connection with the use of this software.
